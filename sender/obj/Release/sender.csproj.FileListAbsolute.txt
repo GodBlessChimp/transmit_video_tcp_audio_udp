@@ -1,0 +1,20 @@
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Release\sender.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Release\sender.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Release\sender.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Release\sender.csprojResolveAssemblyReference.cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\bin\Release\sender.exe.config
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.exe
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.pdb
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\bin\Release\sender.exe
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\bin\Release\sender.pdb
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.csprojResolveAssemblyReference.cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.Form1.resources
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.Properties.Resources.resources
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\obj\Release\sender.csproj.GenerateResource.Cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\bin\Release\NAudio.dll
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\sender\bin\Release\NAudio.xml

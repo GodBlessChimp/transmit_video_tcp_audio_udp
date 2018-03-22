@@ -1,0 +1,9 @@
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Debug\sender.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Debug\sender.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\bin\Debug\sender.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\sender\obj\Debug\sender.pdb

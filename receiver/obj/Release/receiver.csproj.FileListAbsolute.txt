@@ -1,0 +1,20 @@
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Release\receiver.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Release\receiver.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Release\receiver.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.pdb
+C:\Users\ALEXEY\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Release\receiver.csprojResolveAssemblyReference.cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\bin\Release\receiver.exe.config
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\bin\Release\receiver.exe
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\bin\Release\receiver.pdb
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.csprojResolveAssemblyReference.cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.Form1.resources
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.Properties.Resources.resources
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.csproj.GenerateResource.Cache
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.exe
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\obj\Release\receiver.pdb
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\bin\Release\NAudio.dll
+C:\Users\ALEXEY\Desktop\диплом\WindowsFormsApplication9\receiver\bin\Release\NAudio.xml

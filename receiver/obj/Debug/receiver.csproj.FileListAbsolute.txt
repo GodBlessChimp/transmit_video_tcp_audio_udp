@@ -1,0 +1,8 @@
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Debug\receiver.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Debug\receiver.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\bin\Debug\receiver.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Debug\receiver.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Debug\receiver.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Debug\receiver.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Debug\receiver.exe
+c:\users\alexey\documents\visual studio 2013\Projects\WindowsFormsApplication9\receiver\obj\Debug\receiver.pdb
